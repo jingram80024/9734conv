@@ -1,4 +1,4 @@
-#conv9734
+# conv9734
 
 Utilty to convert ov9734 captured raw image from v4l2-ctl from 10-bit bayer to 8-bit format. I used this for debugging and development of the ov9734 driver/dts.
 
